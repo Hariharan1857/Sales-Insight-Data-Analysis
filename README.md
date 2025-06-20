@@ -6,3 +6,9 @@ Utilized SQL to clean, aggregate, and extract actionable insights from the datab
 Built interactive Power BI dashboards showcasing sales, revenue, customers, and products.
 Currently upskilling in DAX to enhance dashboard functionality with advanced KPIs and custom metrics.
 Enabled stakeholders to make data-driven decisions by simplifying complex datasets into visual insights.
+
+Tools used :
+1.Sql
+2.Excel
+3.Powequery
+4.Powerbi
